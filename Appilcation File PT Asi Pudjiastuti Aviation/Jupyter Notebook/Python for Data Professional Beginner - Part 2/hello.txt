@@ -1,0 +1,4 @@
+Sekarang kita belajar menulis dengan menggunakan Python
+Menulis konten file dengan mode w (write).
+Sekarang kita belajar menulis dengan menggunakan Python
+Menulis konten file dengan mode a (append).
